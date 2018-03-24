@@ -1,0 +1,58 @@
+body{
+    padding:0px;
+    margin:0px;
+    width: 100%;
+}
+div h1{
+    
+    font-size: 4em;
+    color: white;
+}
+div{
+    background-color: blueviolet;
+    text-align: center;
+    padding:4em;
+}
+#content1{
+    background-color: rgb(23, 158, 199);
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#time{
+    background-color: royalblue;
+    font-size: 2em;
+    color:whitesmoke;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#li{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+div ul,li{
+    list-style: none;
+    background-color: blueviolet;
+    font-size: 1.5em;
+    font: italic;
+}
+#event{
+    font-size: 2.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:brown;
+    background-color: aqua;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#nav{
+    background-color: brown;
+    padding: 1.5em;
+    color:whitesmoke;
+    font-size: 1.5em;
+
+}
+div p{
+    font-size: 1.5em;
+    background-color: blueviolet;
+    color:white;
+
+}
